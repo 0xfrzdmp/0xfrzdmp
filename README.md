@@ -1,8 +1,8 @@
 # <a href="https://www.linkedin.com/in/dna-duke/">Derick A</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and enjoy working on real-world challenges through hands-on projects. My day-to-day focus is in GRC, performing audits, control testing, and ensuring that the company is compliant with internal and external controls— I enjoying diving into projects relating to vulnerability management, seccurity assessments and threat detection. These hands-on efforts let me explore the technical side of security and better understand how threats evolve in practice.
+I'm passionate about cybersecurity and enjoy working on real-world challenges through hands-on projects. My day-to-day focus is in GRC, performing audits, conduscting third-party risk reviews, and ensuring that the company is compliant with internal and external controls— I enjoying diving into projects relating to vulnerability management, seccurity assessments and threat detection. These hands-on efforts let me explore the technical side of security and better understand how threats evolve in practice.
 
-Please feel free to check out my projects which showcases my strength in identifying vulnerabilities to simulating threat scenarios and the work I've put in to help enhance security operations and make risk-informed decisions. 
+Please feel free to check out my projects which showcases my strength in AI Governance, identifying vulnerabilities to simulating threat scenarios.
 
 
 ## ⚠️ Vulnerability Management Projects

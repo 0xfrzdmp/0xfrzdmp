@@ -1,9 +1,25 @@
 # <a href="https://www.linkedin.com/in/dna-duke/">Derick A</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and enjoy working on real-world challenges through hands-on projects. My day-to-day focus is in GRC, performing audits, conduscting third-party risk reviews, and ensuring that the company is compliant with internal and external controls— I enjoying diving into projects relating to vulnerability management, seccurity assessments and threat detection. These hands-on efforts let me explore the technical side of security and better understand how threats evolve in practice.
+**Governance, Risk, and Compliance Practitioner** focused on helping organizations responsibly evaluate, document, and govern systems, including AI.
+
+I'm passionate about cybersecurity and enjoy working on real-world challenges through hands-on projects. My day-to-day focus is in GRC, AI Governance, performing audits, conducting third-party risk reviews, and ensuring that the company is compliant with internal and external controls— I enjoying diving into projects relating to vulnerability management, seccurity assessments and threat detection. These hands-on efforts let me explore the technical side of security and better understand how threats evolve in practice.
 
 Please feel free to check out my projects which showcases my strength in AI Governance, identifying vulnerabilities to simulating threat scenarios.
 
+
+## Featured AI Governance Portfolio Project
+
+### AI Governance Portfolio Project: Automated Loan Underwriting System
+
+In this project, I acted as the **AI Governance Lead** for a fictional financial services company evaluating a high-risk AI-powered loan underwriting system.
+
+The system used a third-party AI model to evaluate small business loan applications and produce one of three outcomes:
+
+- Auto-approve
+- Auto-deny
+- Route to manual review
+
+Because the system affected access to credit and automated approximately **94% of application decisions**, I assessed it as a high-risk AI use case
 
 ## ⚠️ Vulnerability Management Projects
 

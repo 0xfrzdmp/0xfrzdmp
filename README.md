@@ -21,6 +21,8 @@ The system used a third-party AI model to evaluate small business loan applicati
 
 Because the system affected access to credit and automated approximately **94% of application decisions**, I assessed it as a high-risk AI use case
 
+- **[AI Governance Portfolio Project:Automated Loan Underwriting System](https://github.com/0xfrzdmp/AI-Governance-Portfolio)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/0xfrzdmp/Vulnerability-Management-Program)**

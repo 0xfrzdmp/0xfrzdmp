@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/dna-duke/">Derick A</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/dna-duke/">Derick A</a>'s GRC and Cybersecurity Project Portfolio 🔐
 
 **Governance, Risk, and Compliance Practitioner** focused on helping organizations responsibly evaluate, document, and govern systems, including AI.
 
